@@ -18,7 +18,7 @@ A simple DDoS simulation tool built with Python and Tkinter to simulate and log 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/ddos-simulation-tool.git
+   git clone https://github.com/Yogeshnema2412/ddos-simulation-tool.git
    cd ddos-simulation-tool
    ```
 
